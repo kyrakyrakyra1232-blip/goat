@@ -1,4 +1,4 @@
-local jerkcock = loadstring(game:HttpGet('https://raw.githubusercontent.com/kyrakyrakyra1232-blip/goat/refs/heads/main/source1.lua'))()
+local jerkcock1 = loadstring(game:HttpGet('https://raw.githubusercontent.com/kyrakyrakyra1232-blip/goat/refs/heads/main/source1.lua'))()
 
 local player = game.Players.LocalPlayer
 local username = player.Name
